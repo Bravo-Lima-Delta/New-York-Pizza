@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "New York Pizza Website"
+  title: "The Best Pizza in New York"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
