@@ -1,5 +1,5 @@
 ---
-title: "New York Pizza Website"
+title: "The Best Pizza in New York. (Without the rats.)"
 ---
 
 This is a Quarto website.
