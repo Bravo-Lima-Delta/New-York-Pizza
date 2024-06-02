@@ -2,7 +2,21 @@
 title: "Data Preparation"
 ---
 
-About this site
+### Sources
+
+The underlying data of this report was sourced from two datasets:
+
+1.  DAVE_PORTNOY_PIZZA_REVIEW_DATA (available here as a [.csv](https://github.com/Bravo-Lima-Delta/New-York-Pizza/blob/master/DAVE_PORTNOY_PIZZA_REVIEW_DATA.csv) – \~1.1MB)
+
+    This data set is a pizza slice review data set from Dave Portnoy who reviews pizza locations primarily in New York.  This data set includes a lot of information, but it includes the Yelp Rating of the restaurant at the time of the review, as well as Dave’s score of the pizza he ate.
+
+2.  NYC_HEALTH_INSPECTION_DATA (available here as a [.xlsx](https://github.com/Bravo-Lima-Delta/New-York-Pizza/raw/master/NYC_HEALTH_INSPECTION_DATA.xlsx) – \~37.4MB)
+
+    This data set provide every public health inspection result for all the restaurants in NYC.
+
+### Data Preparation and Transformation
+
+In order to get the data into final form for dashboard & report production, we performed the following manipulations. Comments have been provided in the following code chunks for your reference. The R programming language was used for data prep and manipulation.
 
 ```{r}
 1 + 1
