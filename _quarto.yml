@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "The Best Pizza in New York"
+  title: "The Best Pizza in Manhattan"
   navbar:
     left:
       - href: index.qmd
@@ -15,7 +15,8 @@ format:
   html:
     theme: flatly
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
 
 editor: visual
 

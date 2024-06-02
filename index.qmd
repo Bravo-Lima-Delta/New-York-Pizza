@@ -1,11 +1,41 @@
 ---
-title: "The Best Pizza in New York. (Without the rats.)"
+title: "The Best Pizza in Manhattan. (Without the rats.)"
 ---
 
-This is a Quarto website.
+### Seriously! Who doesn't like New York Pizza!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+New York is famous for lots of things: The Statue of Liberty, Central Park, Wall Street, skyscrapers, congestion, nightlife, and cheesy Tom Hanks rom-coms. But, it also gets praised for its cheesy pizza! And boy is it gooooood! So good, in fact, it leaves many people wondering: "What *is* the best pizza in New York? If I go there, which pizza should I try first?"
 
-```{r}
-1 + 1
-```
+Don't worry. We've got you covered.
+
+### Manhattan pizza reviews
+
+Internet celebrity and pizza critic Dave Portnoy and his pizza-rating community have rated hundreds pizza joints across Manhattan on a scale of 0-10 (10 being the best and 0 being the worst). We've gained access to a data set that allows us to see their pizza ratings and create a short list of where to stop in for an awesome slice without leaving disappointed. After all, who wants to enter the grumbling chaos of the city just to get even more ticked off with bad pizza!
+
+### "But hold the rats. And no bugs either, please!"
+
+Honestly, though, if you're just looking for Dave's ratings, we could have pointed to you to his [OneBite](https://onebite.app/) pizza app. This will get you what you need if you're just looking for good pizza in Manhattan. But the problem remains: your pizza might taste good, **but is it nasty?** *How* has your pizza been made? What standards are the pizza makers upholding when it comes to the *sanitary conditions* of their restaurant?
+
+Dave's ratings don't provide any transparency into the pizza production environment. Our analysis, on the other hand, couples Dave's review data with New York Health Department inspection results to get you to good, safe pizza quickly.
+
+Believe us; the best pizza is is safe pizza. Especially when it's been kept from rats, mice, roaches, and flies. **Gross.**
+
+### You can't go wrong with the best! But...if you insist...
+
+Here's an dashboard we've built that will get you to the best, SAFE pizza in Manhattan. However, if you just care about taste and don't care about NASTY sanitary conditions, we've allowed for that option, too.
+
+Toggle between 'Safe Pizza' and 'Nasty Pizza' to navigate between result sets. Hover and click to isolate places of interest and to get review stats, address, and contact info.
+
+<iframe src="https://public.tableau.com/views/BestPizzainManhattan/Story1?:language=en-US&amp;publish=yes&amp;:sid=&amp;:display_count=n&amp;:origin=viz_share_link?:showVizHome=no&amp;:embed=true" width="1100" height="750">
+
+</iframe>
+
+### The broader imperative
+
+We get it. It's just pizza. And it's New York. Can we really expect the health conditions of the busiest pizza restaurants in the world to be perfect? Like, will New York ever be able to purge itself of unsanitary pests that might get into the food or ingredients you're served?
+
+Maybe not. But if you stop and think about it, if a restaurant is working hard to ensure a clean, sanitary environment, don't you think they're also putting in the extra effort to make great-tasting pizza? Let's reward the businesses that are ensuring our safety and enjoy a the taste of New York the way it was meant to be experienced!
+
+Cheers,
+
+Brian Davidhizar
