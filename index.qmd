@@ -4,17 +4,17 @@ title: "The Best Pizza in Manhattan. (Without the rats.)"
 
 ### Seriously! Who doesn't like New York Pizza!
 
-New York is famous for lots of things: The Statue of Liberty, Central Park, Wall Street, skyscrapers, congestion, nightlife, and cheesy Tom Hanks rom-coms. But, it also gets praised for its cheesy pizza! And boy is it gooooood! So good, in fact, it leaves many people wondering: "What *is* the best pizza in New York? If I go there, which pizza should I try first?"
+New York is famous for lots of things: The Statue of Liberty, Central Park, Wall Street, skyscrapers, congestion, nightlife, and cheesy Tom Hanks rom-coms. But, it also gets a lot of props for its cheesy pizza! In fact, New York Pizza is so good it leaves many wondering: "What *is* the best pizza in New York? If I go there, which pizza should I try first?"
 
 Don't worry. We've got you covered.
 
 ### Manhattan pizza reviews
 
-Internet celebrity and pizza critic Dave Portnoy and his pizza-rating community have rated hundreds pizza joints across Manhattan on a scale of 0-10 (10 being the best and 0 being the worst). We've gained access to a data set that allows us to see their pizza ratings and create a short list of where to stop in for an awesome slice without leaving disappointed. After all, who wants to enter the grumbling chaos of the city just to get even more ticked off with bad pizza!
+Pizza critic Dave Portnoy and his supporting community have reviewed hundreds pizza joints across Manhattan on a scale of '0' to '10' ('10' being the best and '0' being the worst). We've gained access to a data set that allows us to see their pizza ratings and create a short list of where to get an awesome slice without leaving disappointed. After all, who wants to deal with the chaos of the city just to get even more ticked off because of bad pizza!
 
 ### "But hold the rats. And no bugs either, please!"
 
-Honestly, though, if you're just looking for Dave's ratings, we could have pointed to you to his [OneBite](https://onebite.app/) pizza app. This will get you what you need if you're just looking for good pizza in Manhattan. But the problem remains: your pizza might taste good, **but is it nasty?** *How* has your pizza been made? What standards are the pizza makers upholding when it comes to the *sanitary conditions* of their restaurant?
+Honestly, though, if you're just looking for Dave's ratings, we could have pointed you to his [OneBite](https://onebite.app/) pizza app. It will get you what you need if you're just looking for good pizza in Manhattan. But the problem remains: your pizza might taste good, **but is it nasty?** *How* has your pizza been made? What standards are the pizza makers upholding when it comes to the *sanitary conditions* of their restaurant?
 
 Dave's ratings don't provide any transparency into the pizza production environment. Our analysis, on the other hand, couples Dave's review data with New York Health Department inspection results to get you to good, safe pizza quickly.
 
@@ -32,9 +32,9 @@ Toggle between 'Safe Pizza' and 'Nasty Pizza' to navigate between result sets. H
 
 ### The broader imperative
 
-We get it. It's just pizza. And it's New York. Can we really expect the health conditions of the busiest pizza restaurants in the world to be perfect? Like, will New York ever be able to purge itself of unsanitary pests that might get into the food or ingredients you're served?
+We get it. It's just pizza. And it's New York. Should we expect the health conditions of the busiest pizza restaurants in the world to be perfect? Will New York ever be able to purge itself of those nasty pests that might get into the food we're served?
 
-Maybe not. But if you stop and think about it, if a restaurant is working hard to ensure a clean, sanitary environment, don't you think they're also putting in the extra effort to make great-tasting pizza? Let's reward the businesses that are ensuring our safety and enjoy a the taste of New York the way it was meant to be experienced!
+Maybe not. But stop and consider: if a restaurant is working hard to ensure a clean, sanitary environment, don't you think they're also putting in the extra effort to make great-tasting pizza? Let's reward the businesses that are ensuring our safety and enjoy a the taste of New York the way it was meant to be experienced!
 
 Cheers,
 
