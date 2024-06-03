@@ -22,7 +22,7 @@ Believe us; the best pizza is is safe pizza. Especially when it's been kept from
 
 ### You can't go wrong with the best! But...if you insist...
 
-Here's an dashboard we've built that will get you to the best, SAFE pizza in Manhattan. However, if you just care about taste and don't care about NASTY sanitary conditions, we've allowed for that option, too.
+Here's a dashboard we've built that will get you to the best, SAFE pizza in Manhattan. However, if you just care about taste and don't care about NASTY sanitary conditions, we've allowed for that option, too.
 
 Toggle between 'Safe Pizza' and 'Nasty Pizza' to navigate between result sets. Hover and click to isolate places of interest and to get review stats, address, and contact info.
 
